@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-28T12:48:01.178Z</updated>
+  <updated>2019-12-11T13:54:47.651Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo+gitpage---miaulab</title>
+    <link href="http://yoursite.com/2019/12/11/hexo-gitpage-miaulab/"/>
+    <id>http://yoursite.com/2019/12/11/hexo-gitpage-miaulab/</id>
+    <published>2019-12-11T13:53:20.000Z</published>
+    <updated>2019-12-11T13:54:47.651Z</updated>
+    
+    <content type="html"><![CDATA[<p>neue anfang </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;neue anfang &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
